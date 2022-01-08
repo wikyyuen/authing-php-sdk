@@ -1,6 +1,6 @@
 {
-  "name": "authing-sdk/php",
-  "description": "authing-php-sdk",
+  "name": "authing-sdk/php-update-guzzle",
+  "description": "authing-php-sdk-update-guzzle",
   "minimum-stability": "stable",
   "version": "4.2.1",
   "require": {
